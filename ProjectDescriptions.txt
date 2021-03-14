@@ -1,0 +1,4 @@
+WebApp => JobsAuction
+WebApp associated WebJob => AuctionJobs
+Independant WebJob => AuctionCleanupJobs
+Idependent SDK WebJob => BackgroundBids
